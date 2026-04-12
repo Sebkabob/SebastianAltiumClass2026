@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AltiumClass2026_DemoPCB.PrjPcb]
+   Generated File[SebastianAltiumClassPCB.TXT]
+   Generated File[SebastianAltiumClassPCB.LDP]
+   Generated File[SebastianAltiumClassPCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:49:19 AM On 4/9/2026
