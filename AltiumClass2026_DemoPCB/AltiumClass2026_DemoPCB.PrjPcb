@@ -1189,8 +1189,9 @@ PartTypes=0
 Net1=NetName=+5V|NetColor=clFuchsia
 Net2=NetName=+BAT|NetColor=clRed
 Net3=NetName=GND|NetColor=$00751C35
-Net4=NetName=NetIC?_2|NetColor=$003D340C
-Net5=NetName=NetIC?_4|NetColor=clFuchsia
+Net4=NetName=NetC1_2|NetColor=$00FF0099
+Net5=NetName=NetIC?_2|NetColor=$003D340C
+Net6=NetName=NetIC?_4|NetColor=clFuchsia
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
